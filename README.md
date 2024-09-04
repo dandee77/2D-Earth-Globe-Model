@@ -26,9 +26,18 @@ cd globe-simulator
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
 
+#### Linux
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+#### Windows
+
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+.\venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
