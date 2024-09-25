@@ -20,8 +20,7 @@ A simple globe simulator built with Python using the raylib library. You can int
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/globe-simulator.git
-cd globe-simulator
+git clone https://github.com/dandee77/globe-simulator.git
 ```
 
 ### 2. Set Up a Virtual Environment (Optional but Recommended)
